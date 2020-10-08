@@ -269,6 +269,10 @@ body {
 
 
     /* CodeMirror */
+	span.bp3-button-text {
+    	color: #ffffff;
+	}
+  
     .CodeMirror {
         background: #091722;
         color: #589cab;
